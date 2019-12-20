@@ -17,7 +17,6 @@
 
     <build>
         <defaultGoal>clean package</defaultGoal>
-        <finalName>${project.name}</finalName>
         <plugins>
             <plugin>
                 <version>3.6.1</version>
